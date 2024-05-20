@@ -1,6 +1,5 @@
-function findMaxNumber(arr) {
-  let sorted = arr.sort((a, b) => a - b);
-  return sorted[sorted.length - 1];
-}
+// Practice both solutions
+
+function findMaxNumber(arr) {}
 
 module.exports = findMaxNumber;
