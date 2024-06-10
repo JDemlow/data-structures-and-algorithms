@@ -1,3 +1,3 @@
-function isPalindrome() {}
+const isPalindrome = (str) => {};
 
 module.exports = isPalindrome;
