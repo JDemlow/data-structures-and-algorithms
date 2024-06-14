@@ -1,3 +1,3 @@
-const isPalindrome = (str) => {};
+const isPalindrome = () => {};
 
 module.exports = isPalindrome;
