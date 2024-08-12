@@ -1,9 +1,3 @@
-function countVowels(str) {
-  let arr = [];
-  str.map((letter) => {
-    arr.push(letter);
-  });
-  return arr;
-}
+function countVowels(str) {}
 
 module.exports = countVowels;
