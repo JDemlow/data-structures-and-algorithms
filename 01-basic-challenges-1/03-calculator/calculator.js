@@ -14,7 +14,7 @@ function calculator(num1, num2, operator) {
       result = num1 / num2;
       break;
     default:
-      throw new Error("Not a valid operator");
+      result = "Invalid Operator";
   }
   return result;
 }
