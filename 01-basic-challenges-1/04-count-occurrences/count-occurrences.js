@@ -4,6 +4,6 @@
 
 // Use one line solution
 
-function countOccurrences() {}
+// function countOccurrences() {}
 
 module.exports = countOccurrences;
