@@ -1,9 +1,9 @@
 // for loop
 
-function titleCase() {}
+// function titleCase() {}
 
 // regex
 
-// function titleCase() {}
+function titleCase() {}
 
 module.exports = titleCase;
