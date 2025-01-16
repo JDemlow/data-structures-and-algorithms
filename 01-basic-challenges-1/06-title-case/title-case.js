@@ -4,6 +4,6 @@
 
 // regex
 
-function titleCase() {}
+// function titleCase() {}
 
 module.exports = titleCase;

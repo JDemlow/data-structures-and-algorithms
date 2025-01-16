@@ -4,8 +4,6 @@
 
 // for loop
 
-function findMaxNumber(arr) {
-  return Math.max(...arr);
-}
+// function findMaxNumber() {}
 
 module.exports = findMaxNumber;
