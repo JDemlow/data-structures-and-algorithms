@@ -4,8 +4,6 @@
 
 // regex
 
-function titleCase(str) {
-  return str.replace(/\b\w/g, (match) => match.toUpperCase());
-}
+// function titleCase() {}
 
 module.exports = titleCase;
