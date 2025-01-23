@@ -1,9 +1,5 @@
-// const isPalindrome = () => { };
+// regex
 
-function isPalindrome(str) {
-  let formattedString = str.toLowerCase().replace(/[^a-z0-9]/g, "");
-  let reversed = formattedString.split("").reverse().join("");
-  return formattedString === reversed;
-}
+const isPalindrome = () => {};
 
 module.exports = isPalindrome;
