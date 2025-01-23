@@ -1,5 +1,5 @@
 // regex
 
-const isPalindrome = () => {};
+// function isPalindrome() {}
 
 module.exports = isPalindrome;
