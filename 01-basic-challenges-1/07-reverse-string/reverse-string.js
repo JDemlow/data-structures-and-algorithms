@@ -4,8 +4,6 @@
 
 // methods
 
-function reverseString(str) {
-  return str.split("").reverse().join("");
-}
+// function reverseString() {}
 
 module.exports = reverseString;

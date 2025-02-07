@@ -4,6 +4,6 @@
 
 // Helper Functions
 
-// function isPalindrome() {}
+// function isPalindrome(str) {}
 
 module.exports = isPalindrome;
