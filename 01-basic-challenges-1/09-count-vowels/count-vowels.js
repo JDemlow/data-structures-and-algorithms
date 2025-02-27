@@ -1,3 +1,3 @@
-function countVowels(str) {}
+function countVowels() {}
 
 module.exports = countVowels;
