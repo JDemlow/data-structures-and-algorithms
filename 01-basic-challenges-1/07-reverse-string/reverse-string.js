@@ -1,3 +1,5 @@
-function reverseString() {}
+function reverseString() {
+  // both solutions
+}
 
 module.exports = reverseString;
