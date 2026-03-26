@@ -1,5 +1,5 @@
 function isPalindrome() {
-  // both solutions
+  // regex only
 }
 
 module.exports = isPalindrome;

@@ -1,5 +1,6 @@
 function titleCase() {
-  // both solutions
+  // for loop
+  // regex
 }
 
 module.exports = titleCase;

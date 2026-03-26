@@ -1,5 +1,3 @@
-function countOccurrences() {
-  // both solutions
-}
+function countOccurrences() {}
 
 module.exports = countOccurrences;

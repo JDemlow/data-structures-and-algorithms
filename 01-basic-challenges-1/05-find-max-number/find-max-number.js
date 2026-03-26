@@ -1,5 +1,3 @@
-function findMaxNumber() {
-  // both solutions
-}
+function findMaxNumber() {}
 
 module.exports = findMaxNumber;
