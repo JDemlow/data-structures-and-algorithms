@@ -1,5 +1,3 @@
-function calculator() {
-  //  Missing one thing for 100%
-}
+function calculator() {}
 
 module.exports = calculator;
