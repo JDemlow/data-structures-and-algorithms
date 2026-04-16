@@ -1,5 +1,5 @@
 function removeDuplicates() {
-  // Both Solutions
+  // both solutions
 }
 
 module.exports = removeDuplicates;
