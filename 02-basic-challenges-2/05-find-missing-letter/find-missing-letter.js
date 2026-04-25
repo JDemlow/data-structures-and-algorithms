@@ -1,5 +1,5 @@
-function findMissingLetter(arr) {
-  const alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+function findMissingLetter() {
+  //both solutions
 }
 
 module.exports = findMissingLetter;
