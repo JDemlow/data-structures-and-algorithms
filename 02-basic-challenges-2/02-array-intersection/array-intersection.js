@@ -1,5 +1,5 @@
 function arrayIntersection() {
-  //both solutions
+  // both solutions
 }
 
 module.exports = arrayIntersection;
